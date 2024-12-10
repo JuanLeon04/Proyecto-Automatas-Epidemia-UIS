@@ -2,7 +2,7 @@
 
 ---
 
-Proyecto final de la asignatura Automatas y leguajes formales enfocado en la creacion de un simulador para una epidemia
+Proyecto final de la asignatura Automatas y Leguajes Formales enfocado en la creacion de un simulador para una epidemia.
 
 **Notebook Google Colab:**
 
