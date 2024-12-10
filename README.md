@@ -15,7 +15,7 @@ Al final del ReadMe encontrará un link a Google colab donde podrá mirar la úl
 **Explicacion de los autómatas celulares:**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/DiagramaDeTransiciones.png" width="700">
+  <img src="https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/DiagramaDeTransiciones.png" width="500">
 </p>
 
 ---
