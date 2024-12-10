@@ -4,7 +4,9 @@
 
 Proyecto final de la asignatura Automatas y Leguajes Formales enfocado en la creacion de un simulador para una epidemia.
 
-![GifDeLaSimulacion](https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/imagenes/GifSimulacion.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/imagenes/GifSimulacion.gif" alt="GifDeLaSimulacion" width="250" height="250">
+</p>
 
 Al final del ReadMe encontrará un link a Google colab donde podrá mirar la última simulación creada.
 
