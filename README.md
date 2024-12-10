@@ -1,4 +1,4 @@
-![BannerProyecto](https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/BannerSimulacionEpidemia.png)
+![BannerProyecto](https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/imagenes/BannerSimulacionEpidemia.png)
 
 ---
 
