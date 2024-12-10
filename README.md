@@ -5,7 +5,7 @@
 Proyecto final de la asignatura Automatas y Leguajes Formales enfocado en la creacion de un simulador para una epidemia.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/imagenes/GifSimulacion.gif" alt="GifDeLaSimulacion" width="250" height="250">
+  <img src="https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/imagenes/GifSimulacion.gif" alt="GifDeLaSimulacion" width="400">
 </p>
 
 Al final del ReadMe encontrará un link a Google colab donde podrá mirar la última simulación creada.
@@ -14,7 +14,9 @@ Al final del ReadMe encontrará un link a Google colab donde podrá mirar la úl
 
 **Explicacion de los autómatas celulares:**
 
-![DiagramaDeTransiciones](https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/DiagramaDeTransiciones.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuanLeon04/Proyecto-Automatas-Epidemia-UIS/refs/heads/main/DiagramaDeTransiciones.png" width="700">
+</p>
 
 ---
 
