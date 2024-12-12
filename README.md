@@ -11,6 +11,8 @@ Proyecto final de la asignatura Automatas y Leguajes Formales enfocado en la cre
   </a>
 </p>
 
+Por si no funciona: https://www.youtube.com/watch?v=Wh5AcZZ9LOM
+
 ---
 
 Previsualización de una simulación:
