@@ -28,3 +28,5 @@ https://colab.research.google.com/drive/1Q1Xdl3uJgNXSCOwaM9BJKgY-0PjgNGpr?usp=sh
 ---
 
 **Link del Video Explicativo:**
+
+https://www.youtube.com/watch?v=Wh5AcZZ9LOM
