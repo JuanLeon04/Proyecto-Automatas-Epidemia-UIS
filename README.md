@@ -24,3 +24,7 @@ Al final del ReadMe encontrará un link a Google colab donde podrá mirar la úl
 **Notebook Google Colab:**
 
 https://colab.research.google.com/drive/1Q1Xdl3uJgNXSCOwaM9BJKgY-0PjgNGpr?usp=sharing
+
+---
+
+**Link del Video Explicativo:**
